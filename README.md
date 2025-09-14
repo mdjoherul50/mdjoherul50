@@ -18,15 +18,15 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Travel%20and%20places/Globe%20With%20Meridians.gif" alt="Globe With Meridians" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20With%20Meridians.png" alt="Globe With Meridians" width="50" height="50" />
       <br/><strong>100+ Global Freelance Projects</strong>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Gear.gif" alt="Gear" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="50" height="50" />
       <br/><strong>Full-Stack Laravel & Django Expert</strong>
     </td>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Link.gif" alt="Link" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="50" height="50" />
       <br/><strong>Scalable API Development</strong>
     </td>
   </tr>
@@ -108,7 +108,7 @@
 <summary><h3><b>Career Details & GitHub Analytics</b></h3></summary>
 <br/>
   
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Briefcase.gif" alt="Briefcase" width="25" height="25" /> Professional Experience</h4>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="Briefcase" width="25" height="25" /> Professional Experience</h4>
 <ul>
   <li><strong>Software Engineer @ Newgen Technology Ltd (Babylon Group)</strong> | <em>Apr 2023 – Present</em></li>
   <li><strong>Freelance Web Developer @ Fiverr & Upwork</strong> | <em>2020 – Present</em></li>
@@ -116,7 +116,7 @@
 
 <br/>
   
-<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/main/Emojis/Objects/Chart%20Increasing.gif" alt="Chart Increasing" width="25" height="25" /> Analytics & Trophies</h4>
+<h4><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Analytics & Trophies</h4>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mdjoherul50&theme=dracula&column=7&no-frame=true&no-bg=true" alt="GitHub Trophies" />
   <br/>
