@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnk0a2Y1b250ajk0bGt0enNodG1zY3NocjI5OXRzMnE2a3hnb3V2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggACpCjo6iDXyw/giphy.gif" width="120px" />
+  <img src="https://www.seoclerk.com/images/membersprofilepic/o/962289.jpg" width="150px" alt="Md. Jahirul Islam" style="border-radius: 50%;" />
   <h1>
     Md. Jahirul Islam
   </h1>
@@ -163,4 +163,6 @@ I'm a passionate **Software Engineer** from Bangladesh 🇧🇩, focused on buil
   <a href="https://www.fiverr.com/jahirul555"><img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
   <a href="https://www.upwork.com/freelancers/~011d47900371655504"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://x.com/jahirul555"><img src="https://img.shields.io/badge/Twitter%20(X)-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://www.facebook.com/engr.mdjahirul"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/jahirul.ict"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
