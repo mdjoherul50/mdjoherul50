@@ -18,7 +18,7 @@
 <table align="center" style="border: none;">
   <tr>
     <td align="center" width="33%">
-      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20With%20Meridians.png" alt="Globe With Meridians" width="50" height="50" />
+      <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="50" height="50" />
       <br/><strong>100+ Global Freelance Projects</strong>
     </td>
     <td align="center" width="33%">
@@ -32,7 +32,12 @@
   </tr>
 </table>
 
-<h3 align="center">Let's Build Something Great Together</h3>
+### 🤝 Let's Connect and Collaborate
+<p align="center">
+  I'm always open to connecting with other developers, discussing new ideas, or collaborating on projects. <br/>
+  Feel free to reach out to me on any of the platforms below!
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/jahirul555/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:mdjoherul50@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -46,7 +51,17 @@
 ### 🛠️ My Technology Stack
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,flask,php,laravel,html,css,javascript,bootstrap,mysql,postgres,git,github,vscode,wordpress,woocommerce&perline=8" />
+    <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,php,laravel,react,nextjs,html,css,javascript,bootstrap,mysql,postgres,docker,git,github,vscode,wordpress,woocommerce&perline=10" />
+  </a>
+</p>
+
+### 🌱 I'm Currently Learning
+<p align="center">
+  I'm always excited to learn new things. Currently, I'm focusing on:
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,docker,kubernetes" />
   </a>
 </p>
 
@@ -100,8 +115,29 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">Background Remover Application</h4>
+      <p>A web application built with FastAPI to automatically remove the background from any uploaded image using a Python backend.</p>
+      <p align="center">
+        <code>Python</code> <code>FastAPI</code> <code>HTML</code> <code>CSS</code>
+      </p>
+      <p align="center">
+        <a href="https://bg-remover-project.onrender.com/"><img src="https://img.shields.io/badge/Live_Demo-46A358?style=for-the-badge&logo=Render&logoColor=white"></a>
+        <a href="https://github.com/mdjoherul50/bg_remover_project"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      </td>
+  </tr>
 </table>
 
+---
+
+### ✍️ My Latest Blog Posts & Tutorials
+- [Tutorial: How to Build a REST API with Django Rest Framework](link-to-your-article.com)
+- [Getting Started with Laravel Sail and Docker](link-to-your-article.com)
+- [5 VS Code Extensions I Can't Live Without](link-to-your-article.com)
 ---
 
 <details>
@@ -127,3 +163,58 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdjoherul50&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 </details>
+
+---
+
+<h3 align="center">🕌 Daily Prayer Times in Bangladesh</h3>
+<p align="center">
+  <i>(Automatically updated daily via GitHub Actions)</i>
+</p>
+
+<h4 align="center">Dhaka</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
+
+<h4 align="center">Chittagong</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
+
+<h4 align="center">Sylhet</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
+
+<h4 align="center">Barisal</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
+
+<h4 align="center">Khulna</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
+
+<h4 align="center">Mymensingh</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
+
+<h4 align="center">Rajshahi</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
+
+<h4 align="center">Rangpur</h4>
+<table align="center">
+  <tr><td>Fajr</td><td>Sunrise</td><td>Dhuhr</td><td>Asr</td><td>Maghrib</td><td>Isha</td></tr>
+  <tr><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td><td>🕓 Loading...</td></tr>
+  </table>
