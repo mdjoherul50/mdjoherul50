@@ -1,0 +1,101 @@
+name: Update Prayer Times
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # --- Job for Dhaka ---
+      - name: Update Dhaka Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Dhaka"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-DHAKA-START"
+          END_COMMENT: "PRAYER-TIME-DHAKA-END"
+
+      # --- Job for Chittagong ---
+      - name: Update Chittagong Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Chittagong"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-CHITTAGONG-START"
+          END_COMMENT: "PRAYER-TIME-CHITTAGONG-END"
+      
+      # --- Job for Sylhet ---
+      - name: Update Sylhet Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Sylhet"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-SYLHET-START"
+          END_COMMENT: "PRAYER-TIME-SYLHET-END"
+
+      # --- Job for Barisal ---
+      - name: Update Barisal Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Barisal"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-BARISAL-START"
+          END_COMMENT: "PRAYER-TIME-BARISAL-END"
+
+      # --- Job for Khulna ---
+      - name: Update Khulna Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Khulna"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-KHULNA-START"
+          END_COMMENT: "PRAYER-TIME-KHULNA-END"
+
+      # --- Job for Mymensingh ---
+      - name: Update Mymensingh Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Mymensingh"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-MYMENSINGH-START"
+          END_COMMENT: "PRAYER-TIME-MYMENSINGH-END"
+
+      # --- Job for Rajshahi ---
+      - name: Update Rajshahi Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Rajshahi"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-RAJSHAHI-START"
+          END_COMMENT: "PRAYER-TIME-RAJSHAHI-END"
+
+      # --- Job for Rangpur ---
+      - name: Update Rangpur Prayer Times
+        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        with:
+          CITY: "Rangpur"
+          COUNTRY: "Bangladesh"
+          README_FILE: "README.md"
+          TABLE_ENABLED: "true"
+          START_COMMENT: "PRAYER-TIME-RANGPUR-START"
+          END_COMMENT: "PRAYER-TIME-RANGPUR-END"
