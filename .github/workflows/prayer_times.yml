@@ -1,3 +1,4 @@
+# Trigger to activate workflow on new commit
 name: Update Prayer Times
 
 on:
