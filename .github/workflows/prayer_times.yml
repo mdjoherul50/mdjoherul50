@@ -37,7 +37,7 @@ jobs:
       
       # --- Job for Sylhet ---
       - name: Update Sylhet Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Sylhet"
           COUNTRY: "Bangladesh"
