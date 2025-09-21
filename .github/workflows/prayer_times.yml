@@ -1,4 +1,5 @@
 # Trigger to activate workflow on new commit
+
 name: Update Prayer Times
 
 on:
@@ -15,7 +16,7 @@ jobs:
 
       # --- Job for Dhaka ---
       - name: Update Dhaka Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Dhaka"
           COUNTRY: "Bangladesh"
@@ -26,7 +27,7 @@ jobs:
 
       # --- Job for Chittagong ---
       - name: Update Chittagong Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Chittagong"
           COUNTRY: "Bangladesh"
@@ -48,7 +49,7 @@ jobs:
 
       # --- Job for Barisal ---
       - name: Update Barisal Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Barisal"
           COUNTRY: "Bangladesh"
@@ -59,7 +60,7 @@ jobs:
 
       # --- Job for Khulna ---
       - name: Update Khulna Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Khulna"
           COUNTRY: "Bangladesh"
@@ -70,7 +71,7 @@ jobs:
 
       # --- Job for Mymensingh ---
       - name: Update Mymensingh Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Mymensingh"
           COUNTRY: "Bangladesh"
@@ -81,7 +82,7 @@ jobs:
 
       # --- Job for Rajshahi ---
       - name: Update Rajshahi Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Rajshahi"
           COUNTRY: "Bangladesh"
@@ -92,7 +93,7 @@ jobs:
 
       # --- Job for Rangpur ---
       - name: Update Rangpur Prayer Times
-        uses: F-T-S/Prayer-Times-Generator@v1.1.0
+        uses: f-t-s/Prayer-Times-Generator@v1.1.0
         with:
           CITY: "Rangpur"
           COUNTRY: "Bangladesh"
